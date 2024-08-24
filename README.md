@@ -28,4 +28,4 @@ Mentors: GET /api/mentors, POST /api/mentors
 Sessions: GET /api/sessions, POST /api/sessions
 
 
-Published Link :
+Published Link :https://bbsessionfront.netlify.app/
